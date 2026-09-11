@@ -1,0 +1,13 @@
+Claude Pro
+ 
+1. What it was used for: Researching competitors in the smart parking space.
+Prompt used: "What are some existing parking apps/solutions similar to what I'm building, and how are they different?"
+What I kept vs. changed: Kept the list of competitors (SpotHero, ParkWhiz, ParkMobile, Passport Parking, Google Maps) and their general strengths/weaknesses, then wrote the competitive analysis and differentiation section in my own words based on it.
+ 
+2. What it was used for: Help drafting the Vision and Scope section.
+Prompt used: "Help me write a vision and scope section that covers how this project was acquired, an intro to my company, and a rough overview of the project."
+What I kept vs. changed: Used the draft as a starting point, then rewrote and trimmed the wording throughout so it reflected my own voice and matched only what the assignment actually required.
+ 
+3. What it was used for: Generating a starting list of draft use cases for the SRS.
+Prompt used: "Help me come up with at least 15 use cases for a smart parking platform, covering both drivers and parking operators."
+What I kept vs. changed: Kept the actor/use case/description structure and the 15 use cases as my draft list. This is expected to be revised and expanded as the semester continues, per the assignment instructions.
