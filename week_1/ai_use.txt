@@ -1,13 +1,39 @@
-Claude Pro
- 
+Claude Pro (paid account, not the free public tier)
+
+
+HOMEWORK 1
+
 1. What it was used for: Researching competitors in the smart parking space.
 Prompt used: "What are some existing parking apps/solutions similar to what I'm building, and how are they different?"
 What I kept vs. changed: Kept the list of competitors (SpotHero, ParkWhiz, ParkMobile, Passport Parking, Google Maps) and their general strengths/weaknesses, then wrote the competitive analysis and differentiation section in my own words based on it.
- 
+
 2. What it was used for: Help drafting the Vision and Scope section.
 Prompt used: "Help me write a vision and scope section that covers how this project was acquired, an intro to my company, and a rough overview of the project."
 What I kept vs. changed: Used the draft as a starting point, then rewrote and trimmed the wording throughout so it reflected my own voice and matched only what the assignment actually required.
- 
+
 3. What it was used for: Generating a starting list of draft use cases for the SRS.
 Prompt used: "Help me come up with at least 15 use cases for a smart parking platform, covering both drivers and parking operators."
 What I kept vs. changed: Kept the actor/use case/description structure and the 15 use cases as my draft list. This is expected to be revised and expanded as the semester continues, per the assignment instructions.
+
+
+HOMEWORK 2
+
+1. What it was used for: Understanding how a Work Breakdown Structure is organized before building my own.
+Prompt used: "Explain how the levels of a WBS work and what belongs at each level."
+What I kept vs. changed: Used this to learn the rules (deliverables as nouns, the 100% rule, work package sizing). No text from this was used in the submission.
+
+2. What it was used for: Getting a starting structure for the WBS.
+Prompt used: "Give me a draft WBS structure for a parking app, three levels deep, organized by feature."
+What I kept vs. changed: Used the draft as a skeleton. I cut it down to four branches, renamed several features to match the functional requirements and use cases from my own SRS, and rewrote most of the sub-task wording.
+
+3. What it was used for: Sanity-checking my WBS against the SRS I already wrote.
+Prompt used: "Which of my functional requirements aren't covered by this WBS, and is anything in here outside my stated scope?"
+What I kept vs. changed: Added a couple of features I had missed and removed one that was outside the scope I defined. The mapping of each feature to its FR/UC number is my own.
+
+4. What it was used for: Draft duration estimates and task order for the schedule.
+Prompt used: "Given this WBS, suggest how long each feature would take and what order they'd have to happen in."
+What I kept vs. changed: Used the suggested sequence as a starting point, then adjusted durations and the start dates to fit the Fall 2026 semester calendar.
+
+5. What it was used for: Help building the Gantt chart in Excel.
+Prompt used: "How do I turn a table of tasks, start dates, and durations into a Gantt chart in Excel?"
+What I kept vs. changed: Followed the steps to build the chart myself (stacked bar, hiding the start series, reversing the axis order, setting the date bounds). The data and formatting are mine.
