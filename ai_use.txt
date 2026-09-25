@@ -37,3 +37,18 @@ What I kept vs. changed: Used the suggested sequence as a starting point, then a
 5. What it was used for: Help building the Gantt chart in Excel.
 Prompt used: "How do I turn a table of tasks, start dates, and durations into a Gantt chart in Excel?"
 What I kept vs. changed: Followed the steps to build the chart myself (stacked bar, hiding the start series, reversing the axis order, setting the date bounds). The data and formatting are mine.
+
+
+HOMEWORK 3
+
+1. What it was used for: Drafting the backlog items for the parking app.
+Prompt used: "Give me backlog items for a parking app covering login, UI for operator and user, backend processes, and reporting."
+What I kept vs. changed: Used the list as my starting backlog. I checked each item against my WBS and SRS and confirmed every category met the minimum count before adding it to the board.
+
+2. What it was used for: Choosing which items go into Sprint 1.
+Prompt used: "Which of these backlog items should go in Sprint 1 if the goal is a working login?"
+What I kept vs. changed: Kept the suggested set of database and login items. It matches the dependency order from my Homework 2 schedule, where the database and accounts come first.
+
+3. What it was used for: Step-by-step help setting up the board in Trello.
+Prompt used: "How do I set up lists and labels in Trello and get my backlog items onto the board?"
+What I kept vs. changed: Created the board, lists, and labels myself, added the backlog items, and arranged the Sprint 1 order by hand.
