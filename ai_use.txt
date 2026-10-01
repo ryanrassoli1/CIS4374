@@ -52,3 +52,18 @@ What I kept vs. changed: Kept the suggested set of database and login items. It 
 3. What it was used for: Step-by-step help setting up the board in Trello.
 Prompt used: "How do I set up lists and labels in Trello and get my backlog items onto the board?"
 What I kept vs. changed: Created the board, lists, and labels myself, added the backlog items, and arranged the Sprint 1 order by hand.
+
+
+HOMEWORK 4
+
+What it was used for: Identifying risks for a custom parking application project featuring user authentication, slot booking, and real-time availability tracking across the four categories from class (technical, schedule, financial, people).
+Prompt used: "Help me brainstorm potential project risks across technical, schedule, financial, and people categories for a custom parking application project featuring user authentication, slot booking, and real-time availability tracking."
+What I kept vs. changed: Used the list as a starting point. Checked each risk against my own requirements and Gantt dates so every one ties back to something specific in my project.
+
+What it was used for: Building a 12-item risk register template containing columns for ID, description, probability, impact, owner, response strategy, and notes, formatted for a software development lifecycle.
+Prompt used: "Structure a 12-item risk register template containing columns for ID, description, probability, impact, owner, response strategy, and notes, formatted for a software development lifecycle."
+What I kept vs. changed: Kept the structure and the 12 entries. Reviewed each probability, impact, and rating against the 1 to 5 risk matrix from class.
+
+What it was used for: Drafting a standard software project communication matrix incorporating daily standups, weekly progress reporting, and monthly stakeholder reviews.
+Prompt used: "Help me outline a standard software project communication matrix incorporating daily standups, weekly progress reporting, and monthly stakeholder reviews."
+What I kept vs. changed: Kept the meeting schedule and reporting methods. They follow the daily, weekly, and monthly cadence from class and match the weekly update videos I already record.
