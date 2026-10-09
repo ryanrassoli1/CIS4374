@@ -56,14 +56,28 @@ What I kept vs. changed: Created the board, lists, and labels myself, added the 
 
 HOMEWORK 4
 
-What it was used for: Identifying risks for a custom parking application project featuring user authentication, slot booking, and real-time availability tracking across the four categories from class (technical, schedule, financial, people).
+1. What it was used for: Identifying risks for a custom parking application project featuring user authentication, slot booking, and real-time availability tracking across the four categories from class (technical, schedule, financial, people).
 Prompt used: "Help me brainstorm potential project risks across technical, schedule, financial, and people categories for a custom parking application project featuring user authentication, slot booking, and real-time availability tracking."
 What I kept vs. changed: Used the list as a starting point. Checked each risk against my own requirements and Gantt dates so every one ties back to something specific in my project.
 
-What it was used for: Building a 12-item risk register template containing columns for ID, description, probability, impact, owner, response strategy, and notes, formatted for a software development lifecycle.
+2. What it was used for: Building a 12-item risk register template containing columns for ID, description, probability, impact, owner, response strategy, and notes, formatted for a software development lifecycle.
 Prompt used: "Structure a 12-item risk register template containing columns for ID, description, probability, impact, owner, response strategy, and notes, formatted for a software development lifecycle."
 What I kept vs. changed: Kept the structure and the 12 entries. Reviewed each probability, impact, and rating against the 1 to 5 risk matrix from class.
 
-What it was used for: Drafting a standard software project communication matrix incorporating daily standups, weekly progress reporting, and monthly stakeholder reviews.
+3. What it was used for: Drafting a standard software project communication matrix incorporating daily standups, weekly progress reporting, and monthly stakeholder reviews.
 Prompt used: "Help me outline a standard software project communication matrix incorporating daily standups, weekly progress reporting, and monthly stakeholder reviews."
 What I kept vs. changed: Kept the meeting schedule and reporting methods. They follow the daily, weekly, and monthly cadence from class and match the weekly update videos I already record.
+
+HOMEWORK 5
+
+1. What it was used for: Brainstorming typical software team roles and realistic skill levels or allocations for a small project team.
+Prompt used: "What are some standard roles for a small software development team building a mobile parking app, and what would realistic weekly hour allocations look like for part-time students?"
+What I kept vs. changed: Used the suggested roles (Project Manager, Product Owner, Backend, Mobile, QA) as a baseline. I added a Finance/Billing role specifically to track the payment processing fees I identified in my risk register, made up the fictional names myself, and adjusted the weekly allocations to fit our specific schedule.   
+
+2. What it was used for: Generating a template for a bottom-up cost estimate and helping structure the monthly budgeted cashflow table.
+Prompt used: "Help me structure a bottom-up cost estimate and monthly cashflow table for a 16-week software project, including standard infrastructure and license costs like cloud hosting and app store accounts."
+What I kept vs. changed: Kept the table structures for Labor, Other Costs, and Cashflow. I calculated the actual labor costs using the task durations from my own WBS and schedule, added the specific costs for Apple/Google developer accounts and test phones, and manually applied a 15% contingency based on the six HIGH risks in my HW4 risk register.   
+
+3. What it was used for: Understanding how to properly assign Accountable (A) vs Responsible (R) roles across different project deliverables to ensure I followed the rule of only one 'A' per row.
+Prompt used: "Explain the difference between Accountable and Responsible in a RACI matrix for software development, and give me a few examples of how they map to specific deliverables."
+What I kept vs. changed: Used the explanation to ensure the rules of a RACI matrix were met. I mapped the specific deliverables directly to my own project components (like the Driver app screens, Operator dashboard, and App store launch) and assigned the R, A, C, and I values myself based on how our team is structured.
