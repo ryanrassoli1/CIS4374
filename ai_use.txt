@@ -81,3 +81,17 @@ What I kept vs. changed: Kept the table structures for Labor, Other Costs, and C
 3. What it was used for: Understanding how to properly assign Accountable (A) vs Responsible (R) roles across different project deliverables to ensure I followed the rule of only one 'A' per row.
 Prompt used: "Explain the difference between Accountable and Responsible in a RACI matrix for software development, and give me a few examples of how they map to specific deliverables."
 What I kept vs. changed: Used the explanation to ensure the rules of a RACI matrix were met. I mapped the specific deliverables directly to my own project components (like the Driver app screens, Operator dashboard, and App store launch) and assigned the R, A, C, and I values myself based on how our team is structured.
+
+HOMEWORK 6
+
+What it was used for: Auditing my current project document against the assignment update checklist to catch missing elements and inconsistencies.
+Prompt used: "Review my current project document against the assignment checklist and identify any missing sections, formatting errors, or inconsistencies with my previous submissions."
+What I kept vs. changed: Used the feedback strictly as a revision checklist. It successfully caught that my user stories and communication plan were missing, identified where my WBS diagram numbering had drifted from the main list, and flagged overdue risk statuses. I went in and manually made the structural fixes.
+
+What it was used for: Drafting the missing sections (user stories, sprint plan table) and formatting updates based on the audit.
+Prompt used: "Based on my existing backlog and schedule, draft the missing user stories and format a sprint plan table. Also, suggest how to integrate a status column into my timeline and format the updated risk owners."
+What I kept vs. changed: Used the generated drafts as templates rather than final copy. I cross-referenced the new user stories directly against my Homework 1 SRS requirements to ensure they matched, aligned the sprint plan table with my actual team velocity, and manually updated the risk register statuses to reflect our current progress before submitting.
+
+What it was used for: Outlining speaking notes for the weekly project update video.
+Prompt used: "Summarize the key structural updates and fixes from this week's document changes into high-level bullet points I can use as speaking notes for a progress video."
+What I kept vs. changed: Used the summary to organize my thoughts for the update video rather than reading it verbatim. The outline helped ensure I didn't forget to mention the WBS fixes and new user stories, but the final delivery, elaboration, and recording were entirely my own.
