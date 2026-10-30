@@ -95,3 +95,17 @@ What I kept vs. changed: Used the generated drafts as templates rather than fina
 What it was used for: Outlining speaking notes for the weekly project update video.
 Prompt used: "Summarize the key structural updates and fixes from this week's document changes into high-level bullet points I can use as speaking notes for a progress video."
 What I kept vs. changed: Used the summary to organize my thoughts for the update video rather than reading it verbatim. The outline helped ensure I didn't forget to mention the WBS fixes and new user stories, but the final delivery, elaboration, and recording were entirely my own.
+
+HOMEWORK 7
+
+1. What it was used for: Brainstorming stakeholder categories and mapping them onto a Power-Interest Grid for the smart parking project.
+Prompt used: "Help me brainstorm a list of stakeholders for a smart parking app project and suggest where they would fall on a Power-Interest Grid."
+What I kept vs. changed: Used the suggested stakeholder groups and basic grid structure as a baseline. Adjusted exact placements to match class rules and manually wrote the concerns and management strategies to tie into my project's Risk Register and Communication Plan.
+
+2. What it was used for: Formatting the project charter template and generating standard definitions for the business need and scope sections.
+Prompt used: "I need to write a Project Charter for my smart parking app. Can you give me a template with sections for Business Need, Project Goal, Scope, Deliverables, Milestones, and Risks?"
+What I kept vs. changed: Kept the formal table layout and business need narrative. Replaced milestones, budget, non-functional requirements, and risks with the exact dates, numbers, and risk IDs from my previous homework assignments to ensure full alignment.
+
+3. What it was used for: Getting ideas for team norms, values, and conflict resolution steps to include in a student project team charter.
+Prompt used: "What are some good examples of values, norms, and conflict resolution steps for a team charter on a college software project?"
+What I kept vs. changed: Used selected operating norms and the conflict escalation path (collaboration, compromise, PM decides). Built the roles section manually using my actual team member names and added team-specific culture items like pizza and bug of the sprint.
