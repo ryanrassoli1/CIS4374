@@ -109,3 +109,13 @@ What I kept vs. changed: Kept the formal table layout and business need narrativ
 3. What it was used for: Getting ideas for team norms, values, and conflict resolution steps to include in a student project team charter.
 Prompt used: "What are some good examples of values, norms, and conflict resolution steps for a team charter on a college software project?"
 What I kept vs. changed: Used selected operating norms and the conflict escalation path (collaboration, compromise, PM decides). Built the roles section manually using my actual team member names and added team-specific culture items like pizza and bug of the sprint.
+
+HOMEWORK 8
+
+1. What it was used for: Drafting the Project Closure Report covering the executive summary, achievements, shortfalls, and lessons learned.
+Prompt used: "Help me draft a Project Closure Report based on my smart parking app project documents, covering an executive summary, achievements, shortfalls, lessons learned, and future recommendations."
+What I kept vs. changed: Used the generated outline as a starting point. I rewrote the executive summary in my own voice and manually detailed the specific achievements and shortfalls, such as the $52,019 budget and the 15 identified risks, to reflect the actual deliverables I built this semester.   
+
+2. What it was used for: Researching the 2013 HealthCare.gov launch failure for the post-mortem analysis and identifying structural parallels to my project.
+Prompt used: "Summarize the main technical and project management reasons the HealthCare.gov launch failed in 2013, and suggest how those lessons apply to a software project with strict concurrency requirements."
+What I kept vs. changed: Kept the historical facts regarding the unmovable October 2013 launch date, the lack of real-world load testing, and the 55 disconnected contractors. I manually wrote the analysis connecting this historical failure to my own project's NFR1 (1,000 concurrent users), NFR2 (5-second updates), and high-priority risk register entries (T3 and S2).   
